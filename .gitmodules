@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "eponge"]
+	path = eponge
+	url = https://github.com/krzjoa/eponge
+	shallow = true
+	registered = true
+[submodule "matricks"]
+	path = matricks
+	url = https://github.com/krzjoa/matricks
+	shallow = true
+	registered = true
+[submodule "path.chain"]
+	path = path.chain
+	url = https://github.com/krzjoa/path.chain
+	shallow = true
+	registered = true
