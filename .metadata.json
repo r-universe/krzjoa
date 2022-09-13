@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "m5",
+    "oncran": true
+  },
+  {
     "package": "matricks",
     "oncran": true
   },
