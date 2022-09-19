@@ -8,6 +8,11 @@
 	url = https://github.com/krzjoa/eponge
 	shallow = true
 	registered = true
+[submodule "m5"]
+	path = m5
+	url = https://github.com/krzjoa/m5
+	shallow = true
+	registered = true
 [submodule "matricks"]
 	path = matricks
 	url = https://github.com/krzjoa/matricks
