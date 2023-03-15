@@ -4,15 +4,15 @@
     "oncran": true
   },
   {
-    "package": "path.chain",
-    "oncran": true
-  },
-  {
     "package": "m5",
     "oncran": true
   },
   {
     "package": "matricks",
+    "oncran": true
+  },
+  {
+    "package": "path.chain",
     "oncran": true
   }
 ]
